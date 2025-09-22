@@ -5,11 +5,6 @@
 //  Created by Joseph Hanson Villar Hayes on 18/09/2025.
 //
 
-
-
-
-
-
 func fizzbuzz () {
     var outputs = ""
     
